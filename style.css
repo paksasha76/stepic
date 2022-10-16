@@ -1,6 +1,8 @@
 body{
     width: 70%;
     margin: auto;
+    background: black;
+    color: white;
 }
 h1{
     font-size: 32px;
@@ -8,13 +10,17 @@ h1{
 h1, h2{
     margin-top: 1.5em;
     font-family: sans-serif;
+    color: orange;
 }
 table, th, td{
-    border: 1px solid black;
+    border: 1px solid white;
 }
 figcaption{
     font-style: italic;
 }
 img{
     float: right;
+}
+a {
+    color: orange;
 }
