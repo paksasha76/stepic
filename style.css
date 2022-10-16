@@ -40,3 +40,8 @@ li span {
     color: white;
     
 }
+figcaption{
+    clear: right;
+    float: right;
+    color: aqua;
+}
