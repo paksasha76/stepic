@@ -23,4 +23,20 @@ img{
 }
 a {
     color: orange;
+    text-decoration: none;
+}
+li {
+    color: orange;
+}
+ul li {
+    list-style-type: none; 
+    cursor: zoom-in;
+   }
+ul li:before{
+    content: "✩";
+    padding-right: 10px;
+}
+li span {
+    color: white;
+    
 }
